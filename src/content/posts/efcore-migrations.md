@@ -3,7 +3,7 @@ title: EFCore迁移
 published: 2024-11-18
 description: ''
 image: ''
-tags: ["EFCore", "C#"]
+tags: ["EFCore", "CSharp", "教程"]
 category: '笔记'
 draft: false 
 lang: ''

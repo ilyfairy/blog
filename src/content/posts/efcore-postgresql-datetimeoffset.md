@@ -3,7 +3,7 @@ title: EFCore PostgreSql DateTimeOffset报错解决方案
 published: 2024-11-18
 description: ''
 image: ''
-tags: ["C#", "EFCore", "PostgreSql"]
+tags: ["CSharp", "EFCore", "PostgreSql"]
 category: '笔记'
 draft: false 
 lang: ''

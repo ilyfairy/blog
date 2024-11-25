@@ -1,6 +1,8 @@
 ---
 title: "C#中的指针/不安全代码"
 published: 2022-12-28T18:38:08+08:00
+tags: ["CSharp", "教程"]
+category: '教程'
 draft: false
 ---
 

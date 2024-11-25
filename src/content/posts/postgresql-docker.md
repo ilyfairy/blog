@@ -3,7 +3,7 @@ title: Docker中安装PostgreSql
 published: 2024-11-18
 description: ''
 image: ''
-tags: ["Docker","笔记","PostgreSql"]
+tags: ["Docker","笔记","PostgreSql", "教程"]
 category: '笔记'
 draft: false 
 lang: ''
